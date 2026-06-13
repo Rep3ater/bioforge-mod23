@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    "WRW",
+    "W W"
+  ],
+  "key": {
+    "W": { "item": "minecraft:white_wool" },
+    "R": { "item": "minecraft:red_dye" }
+  },
+  "result": {
+    "item": "bioforge:doctor_coat",
+    "count": 1
+  }
+}

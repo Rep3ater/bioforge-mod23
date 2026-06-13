@@ -1,0 +1,80 @@
+{
+  "needle_insert": {
+    "subtitle": "bioforge.subtitle.needle_insert",
+    "sounds": [
+      { "name": "bioforge:needle_insert", "volume": 0.8, "pitch": 1.0 }
+    ]
+  },
+  "scalpel_cut": {
+    "subtitle": "bioforge.subtitle.scalpel_cut",
+    "sounds": [
+      { "name": "bioforge:scalpel_cut", "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "bone_saw": {
+    "subtitle": "bioforge.subtitle.bone_saw",
+    "sounds": [
+      { "name": "bioforge:bone_saw", "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "cauterize": {
+    "subtitle": "bioforge.subtitle.cauterize",
+    "sounds": [
+      { "name": "bioforge:cauterize", "volume": 0.9, "pitch": 1.0 }
+    ]
+  },
+  "organ_remove": {
+    "subtitle": "bioforge.subtitle.organ_remove",
+    "sounds": [
+      { "name": "bioforge:organ_remove", "volume": 1.0, "pitch": 0.9 }
+    ]
+  },
+  "organ_implant": {
+    "subtitle": "bioforge.subtitle.organ_implant",
+    "sounds": [
+      { "name": "bioforge:organ_implant", "volume": 0.8, "pitch": 1.0 }
+    ]
+  },
+  "limb_remove": {
+    "subtitle": "bioforge.subtitle.limb_remove",
+    "sounds": [
+      { "name": "bioforge:limb_remove", "volume": 1.0, "pitch": 0.9 }
+    ]
+  },
+  "limb_attach": {
+    "subtitle": "bioforge.subtitle.limb_attach",
+    "sounds": [
+      { "name": "bioforge:limb_attach", "volume": 0.9, "pitch": 1.0 }
+    ]
+  },
+  "clone_spawn": {
+    "subtitle": "bioforge.subtitle.clone_spawn",
+    "sounds": [
+      { "name": "bioforge:clone_spawn", "volume": 1.0, "pitch": 0.7 }
+    ]
+  },
+  "fluid_drip": {
+    "subtitle": "bioforge.subtitle.fluid_drip",
+    "sounds": [
+      { "name": "bioforge:fluid_drip", "volume": 0.6, "pitch": 1.2 }
+    ]
+  },
+  "stitch": {
+    "subtitle": "bioforge.subtitle.stitch",
+    "sounds": [
+      { "name": "bioforge:stitch", "volume": 0.7, "pitch": 1.0 }
+    ]
+  },
+  "heartbeat": {
+    "subtitle": "bioforge.subtitle.heartbeat",
+    "sounds": [
+      { "name": "bioforge:heartbeat", "volume": 0.5, "pitch": 1.0, "stream": false }
+    ]
+  },
+  "flatline": {
+    "subtitle": "bioforge.subtitle.flatline",
+    "sounds": [
+      { "name": "bioforge:flatline", "volume": 0.8, "pitch": 1.0 }
+    ]
+  }
+}
